@@ -1,0 +1,12 @@
+pip install pylint
+pip install pure-python-adb
+pip install image
+pip install numpy
+pip install pytesseract
+pip install wheel
+pip install mysqlclient
+pip install mysql-connector-python
+pip install mysql-python
+pip install opencv-python
+pip install matplotlib
+pip install mss
